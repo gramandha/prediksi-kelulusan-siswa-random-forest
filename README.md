@@ -29,6 +29,7 @@ Aplikasi web sederhana untuk memperkirakan status kelulusan siswa berdasarkan ni
 - [Pelatihan model](#pelatihan-model)
 - [Teknologi](#teknologi)
 - [Batasan dan pengembangan](#batasan-dan-pengembangan)
+- [Lisensi](#lisensi)
 
 ## Gambaran proyek
 
@@ -219,6 +220,10 @@ Notebook dibuat dengan alur unggah/unduh berkas Google Colab (`google.colab.file
 - Model pickle hanya boleh dimuat dari sumber yang tepercaya. Berkas pickle yang tidak tepercaya dapat menjalankan kode saat dibuka.
 - Perubahan pada urutan atau nama fitur perlu diterapkan secara konsisten pada notebook pelatihan dan aplikasi.
 - Sebelum penggunaan nyata, diperlukan data yang representatif, evaluasi yang lebih menyeluruh, tinjauan privasi dan bias, serta validasi bersama pihak akademik.
+
+## Lisensi
+
+Kode dalam proyek ini menggunakan **Apache License 2.0**. Lihat berkas [LICENSE](./LICENSE) untuk teks lengkap lisensi dan ketentuannya.
 
 ---
 
