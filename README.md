@@ -4,14 +4,15 @@ Aplikasi web sederhana untuk memperkirakan status kelulusan siswa berdasarkan ni
 
 <p align="center">
   <strong>Bahasa &amp; library yang digunakan</strong><br><br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" alt="Python">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask" alt="Flask">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy" alt="NumPy">
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas" alt="pandas">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3" alt="CSS3">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter" alt="Jupyter Notebook">
+  <img src="https://img.shields.io/badge/Status-%E2%9C%93%20Selesai-2E7D32?style=for-the-badge" alt="Status: Selesai">
 </p>
 
 > **Catatan penting:** Dataset proyek ini dibuat secara sintetis untuk keperluan pembelajaran. Hasil prediksi bukan keputusan akademik dan tidak boleh digunakan sebagai satu-satunya dasar untuk menilai siswa.
@@ -222,6 +223,8 @@ Notebook dibuat dengan alur unggah/unduh berkas Google Colab (`google.colab.file
 - Sebelum penggunaan nyata, diperlukan data yang representatif, evaluasi yang lebih menyeluruh, tinjauan privasi dan bias, serta validasi bersama pihak akademik.
 
 ## Lisensi
+
+<img src="https://img.shields.io/badge/Apache%20License-2.0-D22128?style=for-the-badge&logo=apache" alt="Apache License 2.0">
 
 Kode dalam proyek ini menggunakan **Apache License 2.0**. Lihat berkas [LICENSE](./LICENSE) untuk teks lengkap lisensi dan ketentuannya.
 
